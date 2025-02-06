@@ -1,7 +1,7 @@
 # Weather App (Vite + ReactJS)
 
 ## Project Overview
-This is a simple and responsive weather application built with **Vite** and **ReactJS**. It uses the **OpenWeather API** to fetch current weather information based on the city name entered by the user. The app also provides visual weather icons and essential details like temperature, humidity, and wind speed.
+This is a simple weather application built with **Vite** and **ReactJS**. It uses the **OpenWeather API** to fetch current weather information based on the city name entered by the user. The app also provides visual weather icons and essential details like temperature, humidity, and wind speed.
 
 ## Features
 - Search weather data by city name
