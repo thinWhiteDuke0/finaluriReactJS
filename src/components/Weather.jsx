@@ -57,7 +57,7 @@ const Weather = () => {
   };
 
   useEffect(() => {
-    search('Egypt');
+    search(' ');
   }, []);
 
   return (
